@@ -362,3 +362,60 @@ body {
 .item a:hover {
   background-color: #b8a87f;
 }
+
+.get-page {
+  margin-bottom: 60px;
+  padding: 150px 30px;
+  color: white;
+  background: url('../jpg/landing_bg-slide.jpeg');
+}
+.get-page_title .shortDesc {
+  margin-bottom: 20px;
+  font-family: "Marcellus", serif;
+  font-size: 36px;
+}
+.get-page_title .Desc {
+  margin-bottom: 40px;
+  font-size: 48px;
+  font-family: "Marcellus", serif;
+}
+
+.get-page_title .title {
+  margin-bottom: 60px;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 30px;
+}
+
+.get-page_button a{
+  text-decoration: none;
+  color: white;
+  padding: 14px 30px;
+  background-color: #cabe9f;
+  font-size: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1.84px;
+}
+.get-page_button a:hover{
+  background-color: #b8a87f ;
+  transition: 0.3s ease-in-out;
+}
+
+.footer-page{
+  color: #818A91;
+}
+.footer-page div p{
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 30px;
+  font-weight: 580;
+  line-height: 20px;
+}
+
+.footer-page .icon{
+  margin-bottom: 75px;
+}
+.footer-page .icon i{
+  padding: 0px 5px;
+}
