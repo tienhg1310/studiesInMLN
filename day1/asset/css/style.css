@@ -332,9 +332,7 @@ body {
   display: inline;
   font-size: 35px;
   color: #cabe9f;
-  background-color: #ffffff;
-  padding: 25px;
-  border-radius: 50%;
+ 
 }
 .item .desc {
   margin-bottom: 30px;
@@ -368,6 +366,7 @@ body {
   padding: 150px 30px;
   color: white;
   background: url('../jpg/landing_bg-slide.jpeg');
+  background-attachment: fixed;
 }
 .get-page_title .shortDesc {
   margin-bottom: 20px;
